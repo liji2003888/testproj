@@ -1,2 +1,2 @@
 # testproj
-test
+init
